@@ -23,3 +23,4 @@ https://github.com/enderman3367/Artie/blob/main/shitpost.gif
 
 ### ^ this should work 
 
+### why does it just not exist
