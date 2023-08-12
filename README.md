@@ -15,3 +15,4 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fshitpost-gi
 ### lets see if this works (it doesnt)
 ### a google search tells me this is basically a stripped down computer. lets try the tutorial.
 
+https://github.com/enderman3367/Artie/blob/main/shitpost.gif
