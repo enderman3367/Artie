@@ -19,7 +19,7 @@ https://github.com/enderman3367/Artie/blob/main/shitpost.gif
 
 ### dammit guess i cant guess with this stuff
 
-![]([https://github.com/enderman3367/Artie/blob/main/shitpost.gif)
+![](https://github.com/enderman3367/Artie/blob/main/shitpost.gif)
 
 ### ^ this should work 
 
