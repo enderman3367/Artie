@@ -10,3 +10,6 @@
 ### welp, no echo.
 ### how do you put images on here? I have an idea.
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fshitpost-gif-23499417&psig=AOvVaw3ftQx-v9r7RQ2kGmbYafO3&ust=1691907343849000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiF7JO81oADFQAAAAAdAAAAABAJ
+
+### lets see if this works
